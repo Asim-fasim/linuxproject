@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: PALAK PATEL
-- Roll Number: 24BCE10049
+- Name: ASIM BIN FASIM
+- Roll Number: 24BCE11445
 
 ## Chosen Software
 Git (Version Control System)
